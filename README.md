@@ -4,7 +4,7 @@ https://paulkim9292.github.io/react-todo/
 
 React로 만든 간단한 To Do 웹앱입니다.
 
-연습한 Skills
+## 연습한 Skills
 
 - Create React App
 - CSS Module
